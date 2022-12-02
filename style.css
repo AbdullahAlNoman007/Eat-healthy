@@ -133,3 +133,37 @@ body{
 .pic p{
     width: 95%;
 }
+.mid-3{
+    display: flex;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 30px;
+    margin-bottom: 100px;
+    align-content: center;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+.mid-3-text{
+
+    padding: 5%;
+    width: 30%;
+    height: 30%;
+    margin: 10px;
+    text-align: center;
+}
+.footer{
+
+    text-align: center;
+    background-color: black;
+    margin: 0px;
+    padding-bottom: 70px;
+    padding-top: 8px;
+
+    
+}
+#last{
+
+    color: white;
+}
+#f{
+    color: gray;
+}
